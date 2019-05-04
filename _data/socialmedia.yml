@@ -1,27 +1,17 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
-
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/c/KashiKshetra
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "My Youtube Channel"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/dkashikar
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Follow me on Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
-
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+- name: Facebook
+  url: https://facebook.com/Kashikar.Dinesh
+  class: icon-facebook
+  title: "My Facebook profile"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
